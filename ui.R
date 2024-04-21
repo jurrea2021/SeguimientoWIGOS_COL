@@ -214,7 +214,8 @@ shinyUI(fluidPage(
                                                        "Diciembre de 2023" = "dic-2023",
                                                        "Enero de 2024" = "ene-2024",
                                                        "Febrero de 2024" = "feb-2024",
-                                                       "Marzo de 2024" = "mar-2024"
+                                                       "Marzo de 2024" = "mar-2024",
+                                                       "Abril de 2024" = "abr-2024"
                                            )),
                                tabsetPanel(
                                  tabPanel(strong("Nacional"),
